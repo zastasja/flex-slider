@@ -1,0 +1,2 @@
+# flex-slider
+Flexbox accordeon
